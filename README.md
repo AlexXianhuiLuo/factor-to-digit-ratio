@@ -1,0 +1,3 @@
+This started as a joke to find the "best" number. Now I guess it can be used as a benchmark. This program brute forces finding the number with the highest factor to digit ratio.
+
+This could be optimized by implementing prime factorization, however I'm not interested enough to justify the effort. Maybe this has some mathematical purpose I don't really know. I don't have the computational power to get enough data points to create a reasonable model of anything. It might be interesting to try to put a pattern to it with a model of it, or it's derivative.
