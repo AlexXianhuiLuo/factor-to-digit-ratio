@@ -1,0 +1,31 @@
+1 DIGIT: 
+    Ratio:
+        4.00
+    Highest Composite Number(s)
+        6, 8
+
+2 DIGITS: 
+    Ratio:
+        6.00
+    Highest Composite Number(s)
+        60, 72, 84, 90, 96
+
+3 DIGITS: 
+    Ratio:
+        10.67
+    Highest Composite Number(s)
+        840
+
+4 DIGITS: 
+    Ratio:
+        16.00
+    Highest Composite Number(s)
+        7560, 9240
+
+5 DIGITS: 
+    Ratio:
+        25.60
+    Highest Composite Number(s)
+        83160, 98280
+
+*Digits past 2 have had their highest composite number end with 0, presumably this pattern continues due to prime factorization.

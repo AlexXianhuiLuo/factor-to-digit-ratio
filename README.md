@@ -1,3 +1,5 @@
 This started as a joke to find the "best" number. Now I guess it can be used as a benchmark. This program brute forces finding the number with the highest factor to digit ratio.
 
 This could be optimized by implementing prime factorization, however I'm not interested enough to justify the effort. Maybe this has some mathematical purpose I don't really know. I don't have the computational power to get enough data points to create a reasonable model of anything. It might be interesting to try to put a pattern to it with a model of it, or it's derivative.
+
+A cursory search has yielded nothing. I would assume this due to this idea being so asinine that no one else has done anything involving this. Other explanations could be that this is such a niche topic that google's algorithm yields no results. It also could be due to this having no practical uses. Hopefully this is due to it never being thought of yet, and it actually has an incredible number of practical uses, but I doubt it.

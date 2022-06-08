@@ -21,12 +21,21 @@ def mostFactors(min, max, step = 1):
             most_factors.append((x, ratio))
     return most_factors
 
-startTime = time.time_ns()
+
+# #Get Real Results
+# print(mostFactors(1, 9))
+# print(mostFactors(10, 99))
+# print(mostFactors(100, 999))
+# print(mostFactors(1000, 9999))
+# print(mostFactors(10000, 99999))
+
+#Brute Force
+startTime = time.localtime()
 print("START TIME: " + str(startTime))
 
-print(mostFactors(1, 1000000, 1))
+print(mostFactors(1, 100000, 1))
 
-endTime = time.time_ns
+endTime = time.localtime()
 print("END TIME: " + str(endTime))
 
-print("TOTAL TIME: " + str(endTime - startTime))
+print("TOTAL TIME: " + str(time.process_time()))
